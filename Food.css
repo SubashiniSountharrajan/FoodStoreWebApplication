@@ -1,5 +1,5 @@
 .BackgroundImage{
-    background-image: url("../FruitImage.jpg");
+    background-image: url("./Assets/FruitImage.jpg");
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
