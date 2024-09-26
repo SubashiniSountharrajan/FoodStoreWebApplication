@@ -22,7 +22,6 @@ The primary goal of this project is to showcase my skills in building a responsi
 
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
 - **HTML5** – For semantic markup.
-- **JavaScript** – (If applicable, otherwise remove this line).
   
 ## Installation & Setup
 
